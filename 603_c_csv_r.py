@@ -1,5 +1,5 @@
 
-## Lẽ os dados de um arquivo csv
+## Lê os dados de um arquivo csv
 ## Consegue obter uma lista de alturas e de IMC?
 ## Consegue filtrar os dados obtidos por gênero, ou por alguma outra característica da pessoa?
 

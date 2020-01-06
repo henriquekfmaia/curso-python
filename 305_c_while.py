@@ -4,6 +4,6 @@
 # Se a resposta não for negativa, deixe-o falando
 
 print("Eu gosto muito de falar")
+resposta = ""
 while True:
     resposta = input("Você quer conversar? ")
-    

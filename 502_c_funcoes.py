@@ -3,7 +3,6 @@
 # O código está errado
 # Você consegue corrigir?
 
-
 def es_par(numero):
   if not a.isdigit():
       print("Eu disse um número!")

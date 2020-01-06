@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Faça o contador chegar até 100
 
 count = 0

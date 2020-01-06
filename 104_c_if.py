@@ -1,6 +1,9 @@
+# -*- coding: utf-8 -*-
 # O código abaixo deve dizer se um número é primo ou não
+# O código está incompleto
+# Como podemos torna-lo funcional?
 
-n = input("Digite um número")
+n = input("Digite um número: ")
 numero = int(n)
 
 es_primo = True

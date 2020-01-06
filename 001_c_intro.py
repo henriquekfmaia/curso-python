@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Exercício 0.1
 # Printar "Hello World" na tela
 # O "Hello World" (Olá mundo) é um exercício padrão na programação

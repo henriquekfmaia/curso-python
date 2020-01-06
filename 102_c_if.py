@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Diferenciando se um número é par ou ímpar
 # O código está errado
 # Você consegue corrigir?

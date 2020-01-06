@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 # Verificando se uma palavra contém alguma vogal
 # Você consegue encontrar o que tem de errado?
 
-a = input('Digite uma palavra')
+a = input('Digite uma palavra: ')
 
 if "a" in a or "e" in a or "i" in a or "o" in a:
     print("A sua palavra tem vogais")

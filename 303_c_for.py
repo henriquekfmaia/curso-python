@@ -9,6 +9,6 @@ total = 0
 for i in range(0, limite):
     if i % 3 == 0:
         total = total + i
-    if i % 5 == 0:
+    elif i % 5 == 0:
         total = total + i
 print(total)

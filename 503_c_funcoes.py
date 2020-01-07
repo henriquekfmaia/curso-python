@@ -8,7 +8,7 @@ def get_fibonacci(n):
     return 0
   ultimos_termos = [1, 1]
   for i in range(2, n):
-    ultimos_termos = [ ultimos_termos[0] + ultimos_termos[1], ultimos_termos[1] ]
+    ultimos_termos = [ ultimos_termos[1], ultimos_termos[0] + ultimos_termos[1] ]
   return ultimos_termos[1]
 
 
